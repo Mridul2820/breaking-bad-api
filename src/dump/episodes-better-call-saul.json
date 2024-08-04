@@ -1,0 +1,1002 @@
+[
+  {
+    "episode_id": "101",
+    "title": "Uno",
+    "season": "1",
+    "air_date": "February 08, 2015",
+    "characters": [
+      "Jimmy McGill",
+      "Mike Erhmantraut",
+      "Kim Wexler",
+      "Howard Hamlin",
+      "Chuck McGill",
+      "Nacho Varga"
+    ],
+    "episode": "1",
+    "series": "Better Call Saul"
+  },
+  {
+    "episode_id": "102",
+    "title": "Mijo",
+    "season": "1",
+    "air_date": "February 09, 2015",
+    "characters": [
+      "Jimmy McGill",
+      "Mike Erhmantraut",
+      "Kim Wexler",
+      "Howard Hamlin",
+      "Chuck McGill",
+      "Nacho Varga",
+      "Tuco Salamanca"
+    ],
+    "episode": "2",
+    "series": "Better Call Saul"
+  },
+  {
+    "episode_id": "103",
+    "title": "Nacho",
+    "season": "1",
+    "air_date": "February 16, 2015",
+    "characters": [
+      "Jimmy McGill",
+      "Mike Erhmantraut",
+      "Kim Wexler",
+      "Howard Hamlin",
+      "Chuck McGill",
+      "Nacho Varga"
+    ],
+    "episode": "3",
+    "series": "Better Call Saul"
+  },
+  {
+    "episode_id": "104",
+    "title": "Hero",
+    "season": "1",
+    "air_date": "February 23, 2015",
+    "characters": [
+      "Jimmy McGill",
+      "Mike Erhmantraut",
+      "Kim Wexler",
+      "Howard Hamlin",
+      "Chuck McGill",
+      "Nacho Varga"
+    ],
+    "episode": "4",
+    "series": "Better Call Saul"
+  },
+  {
+    "episode_id": "105",
+    "title": "Alpine Shepherd Boy",
+    "season": "1",
+    "air_date": "March 02, 2015",
+    "characters": [
+      "Jimmy McGill",
+      "Mike Erhmantraut",
+      "Kim Wexler",
+      "Howard Hamlin",
+      "Chuck McGill",
+      "Nacho Varga"
+    ],
+    "episode": "5",
+    "series": "Better Call Saul"
+  },
+  {
+    "episode_id": "106",
+    "title": "Five-O",
+    "season": "1",
+    "air_date": "March 09, 2015",
+    "characters": [
+      "Jimmy McGill",
+      "Mike Erhmantraut",
+      "Kim Wexler",
+      "Howard Hamlin",
+      "Chuck McGill",
+      "Nacho Varga"
+    ],
+    "episode": "6",
+    "series": "Better Call Saul"
+  },
+  {
+    "episode_id": "107",
+    "title": "Bingo",
+    "season": "1",
+    "air_date": "March 16, 2015",
+    "characters": [
+      "Jimmy McGill",
+      "Mike Erhmantraut",
+      "Kim Wexler",
+      "Howard Hamlin",
+      "Chuck McGill",
+      "Nacho Varga"
+    ],
+    "episode": "7",
+    "series": "Better Call Saul"
+  },
+  {
+    "episode_id": "108",
+    "title": "RICO",
+    "season": "1",
+    "air_date": "March 23, 2015",
+    "characters": [
+      "Jimmy McGill",
+      "Mike Erhmantraut",
+      "Kim Wexler",
+      "Howard Hamlin",
+      "Chuck McGill",
+      "Nacho Varga"
+    ],
+    "episode": "8",
+    "series": "Better Call Saul"
+  },
+  {
+    "episode_id": "109",
+    "title": "Pimento",
+    "season": "1",
+    "air_date": "March 30, 2015",
+    "characters": [
+      "Jimmy McGill",
+      "Mike Erhmantraut",
+      "Kim Wexler",
+      "Howard Hamlin",
+      "Chuck McGill",
+      "Nacho Varga"
+    ],
+    "episode": "9",
+    "series": "Better Call Saul"
+  },
+  {
+    "episode_id": "110",
+    "title": "Marco",
+    "season": "1",
+    "air_date": "April 06, 2015",
+    "characters": [
+      "Jimmy McGill",
+      "Mike Erhmantraut",
+      "Kim Wexler",
+      "Howard Hamlin",
+      "Chuck McGill",
+      "Nacho Varga"
+    ],
+    "episode": "10",
+    "series": "Better Call Saul"
+  },
+  {
+    "episode_id": "201",
+    "title": "Switch",
+    "season": "2",
+    "air_date": "February 15, 2016",
+    "characters": [
+      "Jimmy McGill",
+      "Mike Erhmantraut",
+      "Kim Wexler",
+      "Howard Hamlin",
+      "Chuck McGill",
+      "Nacho Varga"
+    ],
+    "episode": "1",
+    "series": "Better Call Saul"
+  },
+  {
+    "episode_id": "202",
+    "title": "Cobbler",
+    "season": "2",
+    "air_date": "February 22, 2016",
+    "characters": [
+      "Jimmy McGill",
+      "Mike Erhmantraut",
+      "Kim Wexler",
+      "Howard Hamlin",
+      "Chuck McGill",
+      "Nacho Varga"
+    ],
+    "episode": "2",
+    "series": "Better Call Saul"
+  },
+  {
+    "episode_id": "203",
+    "title": "Amarillo",
+    "season": "2",
+    "air_date": "February 29, 2016",
+    "characters": [
+      "Jimmy McGill",
+      "Mike Erhmantraut",
+      "Kim Wexler",
+      "Howard Hamlin",
+      "Chuck McGill",
+      "Nacho Varga"
+    ],
+    "episode": "3",
+    "series": "Better Call Saul"
+  },
+  {
+    "episode_id": "204",
+    "title": "Gloves Off",
+    "season": "2",
+    "air_date": "March 07, 2016",
+    "characters": [
+      "Jimmy McGill",
+      "Mike Erhmantraut",
+      "Kim Wexler",
+      "Howard Hamlin",
+      "Chuck McGill",
+      "Nacho Varga"
+    ],
+    "episode": "4",
+    "series": "Better Call Saul"
+  },
+  {
+    "episode_id": "205",
+    "title": "Rebecca",
+    "season": "2",
+    "air_date": "March 14, 2016",
+    "characters": [
+      "Jimmy McGill",
+      "Mike Erhmantraut",
+      "Kim Wexler",
+      "Howard Hamlin",
+      "Chuck McGill",
+      "Nacho Varga"
+    ],
+    "episode": "5",
+    "series": "Better Call Saul"
+  },
+  {
+    "episode_id": "206",
+    "title": "Bali Ha'i",
+    "season": "2",
+    "air_date": "March 21, 2016",
+    "characters": [
+      "Jimmy McGill",
+      "Mike Erhmantraut",
+      "Kim Wexler",
+      "Howard Hamlin",
+      "Chuck McGill",
+      "Nacho Varga"
+    ],
+    "episode": "6",
+    "series": "Better Call Saul"
+  },
+  {
+    "episode_id": "207",
+    "title": "Inflatable",
+    "season": "2",
+    "air_date": "March 28, 2016",
+    "characters": [
+      "Jimmy McGill",
+      "Mike Erhmantraut",
+      "Kim Wexler",
+      "Howard Hamlin",
+      "Chuck McGill",
+      "Nacho Varga"
+    ],
+    "episode": "7",
+    "series": "Better Call Saul"
+  },
+  {
+    "episode_id": "208",
+    "title": "Fifi",
+    "season": "2",
+    "air_date": "April 04, 2016",
+    "characters": [
+      "Jimmy McGill",
+      "Mike Erhmantraut",
+      "Kim Wexler",
+      "Howard Hamlin",
+      "Chuck McGill",
+      "Nacho Varga"
+    ],
+    "episode": "8",
+    "series": "Better Call Saul"
+  },
+  {
+    "episode_id": "209",
+    "title": "Nailed",
+    "season": "2",
+    "air_date": "April 11, 2016",
+    "characters": [
+      "Jimmy McGill",
+      "Mike Erhmantraut",
+      "Kim Wexler",
+      "Howard Hamlin",
+      "Chuck McGill",
+      "Nacho Varga"
+    ],
+    "episode": "9",
+    "series": "Better Call Saul"
+  },
+  {
+    "episode_id": "210",
+    "title": "Klick",
+    "season": "2",
+    "air_date": "April 18, 2016",
+    "characters": [
+      "Jimmy McGill",
+      "Mike Erhmantraut",
+      "Kim Wexler",
+      "Howard Hamlin",
+      "Chuck McGill",
+      "Nacho Varga"
+    ],
+    "episode": "10",
+    "series": "Better Call Saul"
+  },
+  {
+    "episode_id": "301",
+    "title": "Mabel",
+    "season": "3",
+    "air_date": "April 10, 2017",
+    "characters": [
+      "Jimmy McGill",
+      "Mike Erhmantraut",
+      "Kim Wexler",
+      "Howard Hamlin",
+      "Chuck McGill",
+      "Nacho Varga"
+    ],
+    "episode": "1",
+    "series": "Better Call Saul"
+  },
+  {
+    "episode_id": "302",
+    "title": "Witness",
+    "season": "3",
+    "air_date": "April 17, 2017",
+    "characters": [
+      "Jimmy McGill",
+      "Mike Erhmantraut",
+      "Kim Wexler",
+      "Howard Hamlin",
+      "Chuck McGill",
+      "Nacho Varga"
+    ],
+    "episode": "2",
+    "series": "Better Call Saul"
+  },
+  {
+    "episode_id": "303",
+    "title": "Sunk Costs",
+    "season": "3",
+    "air_date": "April 24, 2017",
+    "characters": [
+      "Jimmy McGill",
+      "Mike Erhmantraut",
+      "Kim Wexler",
+      "Howard Hamlin",
+      "Chuck McGill",
+      "Nacho Varga"
+    ],
+    "episode": "3",
+    "series": "Better Call Saul"
+  },
+  {
+    "episode_id": "304",
+    "title": "Sabrosito",
+    "season": "3",
+    "air_date": "May 01, 2017",
+    "characters": [
+      "Jimmy McGill",
+      "Mike Erhmantraut",
+      "Kim Wexler",
+      "Howard Hamlin",
+      "Chuck McGill",
+      "Nacho Varga"
+    ],
+    "episode": "4",
+    "series": "Better Call Saul"
+  },
+  {
+    "episode_id": "305",
+    "title": "Chicanery",
+    "season": "3",
+    "air_date": "May 08, 2017",
+    "characters": [
+      "Jimmy McGill",
+      "Mike Erhmantraut",
+      "Kim Wexler",
+      "Howard Hamlin",
+      "Chuck McGill",
+      "Nacho Varga"
+    ],
+    "episode": "5",
+    "series": "Better Call Saul"
+  },
+  {
+    "episode_id": "306",
+    "title": "Off Brand",
+    "season": "3",
+    "air_date": "May 15, 2017",
+    "characters": [
+      "Jimmy McGill",
+      "Mike Erhmantraut",
+      "Kim Wexler",
+      "Howard Hamlin",
+      "Chuck McGill",
+      "Nacho Varga"
+    ],
+    "episode": "6",
+    "series": "Better Call Saul"
+  },
+  {
+    "episode_id": "307",
+    "title": "Expenses",
+    "season": "3",
+    "air_date": "May 22, 2017",
+    "characters": [
+      "Jimmy McGill",
+      "Mike Erhmantraut",
+      "Kim Wexler",
+      "Howard Hamlin",
+      "Chuck McGill",
+      "Nacho Varga"
+    ],
+    "episode": "7",
+    "series": "Better Call Saul"
+  },
+  {
+    "episode_id": "308",
+    "title": "Slip",
+    "season": "3",
+    "air_date": "June 05, 2017",
+    "characters": [
+      "Jimmy McGill",
+      "Mike Erhmantraut",
+      "Kim Wexler",
+      "Howard Hamlin",
+      "Chuck McGill",
+      "Nacho Varga"
+    ],
+    "episode": "8",
+    "series": "Better Call Saul"
+  },
+  {
+    "episode_id": "309",
+    "title": "Fall",
+    "season": "3",
+    "air_date": "June 12, 2017",
+    "characters": [
+      "Jimmy McGill",
+      "Mike Erhmantraut",
+      "Kim Wexler",
+      "Howard Hamlin",
+      "Chuck McGill",
+      "Nacho Varga"
+    ],
+    "episode": "9",
+    "series": "Better Call Saul"
+  },
+  {
+    "episode_id": "310",
+    "title": "Lantern",
+    "season": "3",
+    "air_date": "June 19, 2017",
+    "characters": [
+      "Jimmy McGill",
+      "Mike Erhmantraut",
+      "Kim Wexler",
+      "Howard Hamlin",
+      "Chuck McGill",
+      "Nacho Varga"
+    ],
+    "episode": "10",
+    "series": "Better Call Saul"
+  },
+  {
+    "episode_id": "401",
+    "title": "Smoke",
+    "season": "4",
+    "air_date": "August 06, 2018",
+    "characters": [
+      "Jimmy McGill",
+      "Mike Erhmantraut",
+      "Kim Wexler",
+      "Howard Hamlin",
+      "Chuck McGill",
+      "Nacho Varga"
+    ],
+    "episode": "1",
+    "series": "Better Call Saul"
+  },
+  {
+    "episode_id": "402",
+    "title": "Breathe",
+    "season": "4",
+    "air_date": "August 13, 2018",
+    "characters": [
+      "Jimmy McGill",
+      "Mike Erhmantraut",
+      "Kim Wexler",
+      "Howard Hamlin",
+      "Chuck McGill",
+      "Nacho Varga"
+    ],
+    "episode": "2",
+    "series": "Better Call Saul"
+  },
+  {
+    "episode_id": "403",
+    "title": "Something Beautiful",
+    "season": "4",
+    "air_date": "August 20, 2018",
+    "characters": [
+      "Jimmy McGill",
+      "Mike Erhmantraut",
+      "Kim Wexler",
+      "Howard Hamlin",
+      "Chuck McGill",
+      "Nacho Varga"
+    ],
+    "episode": "3",
+    "series": "Better Call Saul"
+  },
+  {
+    "episode_id": "404",
+    "title": "Talk",
+    "season": "4",
+    "air_date": "August 27, 2018",
+    "characters": [
+      "Jimmy McGill",
+      "Mike Erhmantraut",
+      "Kim Wexler",
+      "Howard Hamlin",
+      "Chuck McGill",
+      "Nacho Varga"
+    ],
+    "episode": "4",
+    "series": "Better Call Saul"
+  },
+  {
+    "episode_id": "405",
+    "title": "Quite a Ride",
+    "season": "4",
+    "air_date": "September 03, 2018",
+    "characters": [
+      "Jimmy McGill",
+      "Mike Erhmantraut",
+      "Kim Wexler",
+      "Howard Hamlin",
+      "Chuck McGill",
+      "Nacho Varga"
+    ],
+    "episode": "5",
+    "series": "Better Call Saul"
+  },
+  {
+    "episode_id": "406",
+    "title": "Pinata",
+    "season": "4",
+    "air_date": "September 10, 2018",
+    "characters": [
+      "Jimmy McGill",
+      "Mike Erhmantraut",
+      "Kim Wexler",
+      "Howard Hamlin",
+      "Chuck McGill",
+      "Nacho Varga"
+    ],
+    "episode": "6",
+    "series": "Better Call Saul"
+  },
+  {
+    "episode_id": "407",
+    "title": "Something Stupid",
+    "season": "4",
+    "air_date": "September 17, 2018",
+    "characters": [
+      "Jimmy McGill",
+      "Mike Erhmantraut",
+      "Kim Wexler",
+      "Howard Hamlin",
+      "Chuck McGill",
+      "Nacho Varga"
+    ],
+    "episode": "7",
+    "series": "Better Call Saul"
+  },
+  {
+    "episode_id": "408",
+    "title": "Coushatta",
+    "season": "4",
+    "air_date": "September 24, 2018",
+    "characters": [
+      "Jimmy McGill",
+      "Mike Erhmantraut",
+      "Kim Wexler",
+      "Howard Hamlin",
+      "Chuck McGill",
+      "Nacho Varga"
+    ],
+    "episode": "8",
+    "series": "Better Call Saul"
+  },
+  {
+    "episode_id": "409",
+    "title": "Wiedersehen",
+    "season": "4",
+    "air_date": "October 01, 2018",
+    "characters": [
+      "Jimmy McGill",
+      "Mike Erhmantraut",
+      "Kim Wexler",
+      "Howard Hamlin",
+      "Chuck McGill",
+      "Nacho Varga"
+    ],
+    "episode": "9",
+    "series": "Better Call Saul"
+  },
+  {
+    "episode_id": "410",
+    "title": "Winner",
+    "season": "4",
+    "air_date": "October 08, 2018",
+    "characters": [
+      "Jimmy McGill",
+      "Mike Erhmantraut",
+      "Kim Wexler",
+      "Howard Hamlin",
+      "Chuck McGill",
+      "Nacho Varga"
+    ],
+    "episode": "10",
+    "series": "Better Call Saul"
+  },
+  {
+    "episode_id": "501",
+    "title": "Magic Man",
+    "season": "5",
+    "air_date": "February 23, 2020",
+    "characters": [
+      "Saul Goodman",
+      "Mike Ehrmantraut",
+      "Kim Wexler",
+      "Howard Hamlin",
+      "Nacho Varga",
+      "Lalo Salamanca",
+      "Gustavo Fring"
+    ],
+    "episode": "1",
+    "series": "Better Call Saul"
+  },
+  {
+    "episode_id": "502",
+    "title": "50% Off",
+    "season": "5",
+    "air_date": "February 24, 2020",
+    "characters": [
+      "Jimmy McGill",
+      "Mike Ehrmantraut",
+      "Kim Wexler",
+      "Howard Hamlin",
+      "Nacho Varga",
+      "Lalo Salamanca",
+      "Gustavo Fring"
+    ],
+    "episode": "2",
+    "series": "Better Call Saul"
+  },
+  {
+    "episode_id": "503",
+    "title": "The Guy For This",
+    "season": "5",
+    "air_date": "March 02, 2020",
+    "characters": [
+      "Jimmy McGill",
+      "Mike Ehrmantraut",
+      "Kim Wexler",
+      "Howard Hamlin",
+      "Nacho Varga",
+      "Lalo Salamanca",
+      "Gustavo Fring"
+    ],
+    "episode": "3",
+    "series": "Better Call Saul"
+  },
+  {
+    "episode_id": "504",
+    "title": "Namaste",
+    "season": "5",
+    "air_date": "March 09, 2020",
+    "characters": [
+      "Jimmy McGill",
+      "Mike Ehrmantraut",
+      "Kim Wexler",
+      "Howard Hamlin",
+      "Nacho Varga",
+      "Lalo Salamanca",
+      "Gustavo Fring"
+    ],
+    "episode": "4",
+    "series": "Better Call Saul"
+  },
+  {
+    "episode_id": "505",
+    "title": "Dedicado a Max",
+    "season": "5",
+    "air_date": "March 16, 2020",
+    "characters": [
+      "Jimmy McGill",
+      "Mike Ehrmantraut",
+      "Kim Wexler",
+      "Howard Hamlin",
+      "Nacho Varga",
+      "Lalo Salamanca",
+      "Gustavo Fring"
+    ],
+    "episode": "5",
+    "series": "Better Call Saul"
+  },
+  {
+    "episode_id": "506",
+    "title": "Wexler v. Goodman",
+    "season": "5",
+    "air_date": "March 23, 2020",
+    "characters": [
+      "Jimmy McGill",
+      "Mike Ehrmantraut",
+      "Kim Wexler",
+      "Howard Hamlin",
+      "Nacho Varga",
+      "Lalo Salamanca",
+      "Gustavo Fring"
+    ],
+    "episode": "6",
+    "series": "Better Call Saul"
+  },
+  {
+    "episode_id": "507",
+    "title": "JMM",
+    "season": "5",
+    "air_date": "March 30, 2020",
+    "characters": [
+      "Jimmy McGill",
+      "Mike Ehrmantraut",
+      "Kim Wexler",
+      "Howard Hamlin",
+      "Nacho Varga",
+      "Lalo Salamanca",
+      "Gustavo Fring"
+    ],
+    "episode": "7",
+    "series": "Better Call Saul"
+  },
+  {
+    "episode_id": "508",
+    "title": "Bagman",
+    "season": "5",
+    "air_date": "April 06, 2020",
+    "characters": [
+      "Jimmy McGill",
+      "Mike Ehrmantraut",
+      "Kim Wexler",
+      "Howard Hamlin",
+      "Nacho Varga",
+      "Lalo Salamanca",
+      "Gustavo Fring"
+    ],
+    "episode": "8",
+    "series": "Better Call Saul"
+  },
+  {
+    "episode_id": "509",
+    "title": "Bad Choice Road",
+    "season": "5",
+    "air_date": "April 13, 2020",
+    "characters": [
+      "Jimmy McGill",
+      "Mike Ehrmantraut",
+      "Kim Wexler",
+      "Howard Hamlin",
+      "Nacho Varga",
+      "Lalo Salamanca",
+      "Gustavo Fring"
+    ],
+    "episode": "9",
+    "series": "Better Call Saul"
+  },
+  {
+    "episode_id": "510",
+    "title": "Something Unforgivable",
+    "season": "5",
+    "air_date": "April 20, 2020",
+    "characters": [
+      "Jimmy McGill",
+      "Mike Ehrmantraut",
+      "Kim Wexler",
+      "Howard Hamlin",
+      "Nacho Varga",
+      "Lalo Salamanca",
+      "Gustavo Fring"
+    ],
+    "episode": "10",
+    "series": "Better Call Saul"
+  },
+  {
+    "episode_id": "601",
+    "title": "Wine and Roses",
+    "season": "6",
+    "air_date": "April 18, 2022",
+    "characters": [
+      "Saul Goodman",
+      "Mike Ehrmantraut",
+      "Kim Wexler",
+      "Howard Hamlin",
+      "Nacho Varga",
+      "Lalo Salamanca",
+      "Gustavo Fring"
+    ],
+    "episode": "1",
+    "series": "Better Call Saul"
+  },
+  {
+    "episode_id": "602",
+    "title": "Carrot and Stick",
+    "season": "6",
+    "air_date": "April 18, 2022",
+    "characters": [
+      "Saul Goodman",
+      "Mike Ehrmantraut",
+      "Kim Wexler",
+      "Howard Hamlin",
+      "Nacho Varga",
+      "Lalo Salamanca",
+      "Gustavo Fring"
+    ],
+    "episode": "2",
+    "series": "Better Call Saul"
+  },
+  {
+    "episode_id": "603",
+    "title": "Rock and Hard Place",
+    "season": "6",
+    "air_date": "April 25, 2022",
+    "characters": [
+      "Saul Goodman",
+      "Mike Ehrmantraut",
+      "Kim Wexler",
+      "Howard Hamlin",
+      "Nacho Varga",
+      "Lalo Salamanca",
+      "Gustavo Fring"
+    ],
+    "episode": "3",
+    "series": "Better Call Saul"
+  },
+  {
+    "episode_id": "604",
+    "title": "Hit and Run",
+    "season": "6",
+    "air_date": "May 2, 2022",
+    "characters": [
+      "Saul Goodman",
+      "Mike Ehrmantraut",
+      "Kim Wexler",
+      "Howard Hamlin",
+      "Nacho Varga",
+      "Lalo Salamanca",
+      "Gustavo Fring"
+    ],
+    "episode": "4",
+    "series": "Better Call Saul"
+  },
+  {
+    "episode_id": "605",
+    "title": "Black and Blue",
+    "season": "6",
+    "air_date": "May 9, 2022",
+    "characters": [
+      "Saul Goodman",
+      "Mike Ehrmantraut",
+      "Kim Wexler",
+      "Howard Hamlin",
+      "Nacho Varga",
+      "Lalo Salamanca",
+      "Gustavo Fring"
+    ],
+    "episode": "5",
+    "series": "Better Call Saul"
+  },
+  {
+    "episode_id": "606",
+    "title": "Axe and Grind",
+    "season": "6",
+    "air_date": "May 16, 2022",
+    "characters": [
+      "Saul Goodman",
+      "Mike Ehrmantraut",
+      "Kim Wexler",
+      "Howard Hamlin",
+      "Nacho Varga",
+      "Lalo Salamanca",
+      "Gustavo Fring"
+    ],
+    "episode": "6",
+    "series": "Better Call Saul"
+  },
+  {
+    "episode_id": "607",
+    "title": "Plan and Execution",
+    "season": "6",
+    "air_date": "May 23, 2022",
+    "characters": [
+      "Saul Goodman",
+      "Mike Ehrmantraut",
+      "Kim Wexler",
+      "Howard Hamlin",
+      "Nacho Varga",
+      "Lalo Salamanca",
+      "Gustavo Fring"
+    ],
+    "episode": "7",
+    "series": "Better Call Saul"
+  },
+  {
+    "episode_id": "608",
+    "title": "Point and Shoot",
+    "season": "6",
+    "air_date": "July 11, 2022",
+    "characters": [
+      "Saul Goodman",
+      "Mike Ehrmantraut",
+      "Kim Wexler",
+      "Howard Hamlin",
+      "Nacho Varga",
+      "Lalo Salamanca",
+      "Gustavo Fring"
+    ],
+    "episode": "8",
+    "series": "Better Call Saul"
+  },
+  {
+    "episode_id": "609",
+    "title": "Fun and Games",
+    "season": "6",
+    "air_date": "July 18, 2022",
+    "characters": [
+      "Saul Goodman",
+      "Mike Ehrmantraut",
+      "Kim Wexler",
+      "Howard Hamlin",
+      "Nacho Varga",
+      "Lalo Salamanca",
+      "Gustavo Fring"
+    ],
+    "episode": "9",
+    "series": "Better Call Saul"
+  },
+  {
+    "episode_id": "610",
+    "title": "Nippy",
+    "season": "6",
+    "air_date": "July 25, 2022",
+    "characters": ["Jimmy McGill"],
+    "episode": "10",
+    "series": "Better Call Saul"
+  },
+  {
+    "episode_id": "611",
+    "title": "Breaking Bad",
+    "season": "6",
+    "air_date": "August 1, 2022",
+    "characters": ["Saul Goodman", "Mike Ehrmantraut"],
+    "episode": "11",
+    "series": "Better Call Saul"
+  },
+  {
+    "episode_id": "612",
+    "title": "Waterworks",
+    "season": "6",
+    "air_date": "August 8, 2022",
+    "characters": ["Saul Goodman", "Kim Wexler"],
+    "episode": "12",
+    "series": "Better Call Saul"
+  },
+  {
+    "episode_id": "613",
+    "title": "Saul Gone",
+    "season": "6",
+    "air_date": "August 15, 2022",
+    "characters": ["Saul Goodman", "Mike Ehrmantraut", "Kim Wexler"],
+    "episode": "13",
+    "series": "Better Call Saul"
+  }
+]
